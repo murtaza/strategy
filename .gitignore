@@ -1,3 +1,7 @@
 # ignore python generated files 
 **/.
 **/_
+# ignore the venv dir
+strategy-venv/
+# ignore .idea folder
+.idea/
